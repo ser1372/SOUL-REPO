@@ -1,8 +1,8 @@
-# Laravel Stack от AreaWeb
+# Soul project
 
-Данное приложение является примером с использованием Laravel, Vite, Inertia.js, Vue 3, Laravel Data и других.
+Laravel, Vite, Inertia.js, Vue 3, Laravel Data и других.
 
-Видео с канала AreaWeb: [https://youtu.be/OqacdH3K8OY](https://youtu.be/OqacdH3K8OY)
+Гайд по проекту: [https://youtu.be/OqacdH3K8OY](https://youtu.be/OqacdH3K8OY)
 
 ## Установка
 
@@ -21,4 +21,4 @@ $ ./vendor/bin/sail artisan migrate --seed
 $ ./vendor/bin/sail npm run dev
 ```
 
-Приложение будет доступно по адресу [http://localhost:1002](http://localhost:1002)
+Приложение будет доступно по адресу [http://localhost](http://localhost)
