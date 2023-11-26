@@ -1,6 +1,6 @@
 declare namespace App.Data {
 export type PostData = {
-id: number;
+id: number | null;
 title: string;
 content: string;
 };
